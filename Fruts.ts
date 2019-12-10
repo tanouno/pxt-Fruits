@@ -47,8 +47,7 @@ namespace basic {
                     # . . . #
                     # . . . #
                     . # # # .
-                    `)break;    
-                break;
+                    `)break;
         }
 
     }
